@@ -55,6 +55,6 @@ Galaxy concepts
 
 ### Learn
 
-- <a href="https://training.galaxyproject.org/training-material/topics/introduction" target="_blank">Introduction to Galaxy Analyses</a>
-- <a href="https://training.galaxyproject.org/training-material/search2?query=collection" target="_blank">Collections are folders of similiar files!</a>
-- <a href="https://help.galaxyproject.org/t/getting-data-into-galaxy/10868" target="_blank"> Upload: Getting Data into Galaxy</a>
+- [Introduction to Galaxy Analyses](https://training.galaxyproject.org/training-material/topics/introduction/)
+- [Collections are folders of similiar files!](https://training.galaxyproject.org/training-material/search2?query=collection)
+- [Upload: Getting Data into Galaxy](https://help.galaxyproject.org/t/getting-data-into-galaxy/10868)
