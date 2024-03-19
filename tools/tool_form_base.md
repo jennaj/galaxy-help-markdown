@@ -6,6 +6,8 @@
 4. Find the tool **Output** in your history
 5. Scroll down on the form for **Tool Help** `scrolls tool form down to help section`
 
+:flashlight: No datasets available? [Upload](https://training.galaxyproject.org/training-material/search2?query=upload) or [copy](https://training.galaxyproject.org/training-material/faqs/galaxy/histories_copy_dataset.html) datasets into your history
+
 ## :question: Help
 
 :::success
@@ -24,8 +26,10 @@ In Galaxy, inputs are named **[datasets](https://training.galaxyproject.org/trai
 - Batch processing? Group similiar files into [dataset collections](https://training.galaxyproject.org/training-material/search2?query=collection) 
 - Input datasets must be in the _currently active_ [history](https://training.galaxyproject.org/training-material/search2?query=history)
 
+:flashlight: Switch which history is active with `fa-exchange` or view all of your histories with `history-selector-icon`
+
 <details>
-  <summary>How to select datasets</summary>
+  <summary><b>How to select datasets from the history</b></summary>
 
   1. Choose one of:
   
@@ -35,22 +39,20 @@ In Galaxy, inputs are named **[datasets](https://training.galaxyproject.org/trai
 
   2. Then select from the list of available datasets
 
-  3. Dataset not availble? You may need to adjust the dataset format
-
 </details>
 
-
-:flashlight: Switch which history is active with `fa-exchange` or view all of your histories with `history-selector-icon`
 
 ### Input Format
 
 In Galaxy, input datasets have a file **format**, commonly named a **[datatype](https://training.galaxyproject.org/training-material/faqs/galaxy/datatypes_understanding_datatypes.html)**
 - Review the listing of _accepted formats_ under each input selection to learn which dataset formats a tool can use
 - Tools interpret a dataset's assigned datatype format during job execution, not the file's name or extension
-- No datasets available? [Upload](https://training.galaxyproject.org/training-material/search2?query=upload) or [copy](https://training.galaxyproject.org/training-material/faqs/galaxy/histories_copy_dataset.html) datasets into your history
+- Dataset in the active history, but not listed? You may need to edit the dataset format
+
+:flashlight: Collection not listed? Reorganize your collection folder with [Collection Operations](https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/collections/tutorial.html) 
 
 <details>
-  <summary>How to review and edit datatype formats</summary>
+  <summary><b>How to review and edit datatype format</b></summary>
 
   1. Review the currently assigned datatype
   
@@ -68,8 +70,6 @@ In Galaxy, input datasets have a file **format**, commonly named a **[datatype](
      * Explore the content of a dataset with [Data Manipulation tools](https://training.galaxyproject.org/training-material/search2?query=olympics)
   
 </details>
-
-:flashlight: Collection not listed? Reorganize your collection folder with [Collection Operations](https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/collections/tutorial.html) 
 
 ### Learn
 
