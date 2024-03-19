@@ -47,9 +47,9 @@ In Galaxy, inputs are named **[datasets](https://training.galaxyproject.org/trai
 In Galaxy, input datasets have a file **format**, commonly named a **[datatype](https://training.galaxyproject.org/training-material/faqs/galaxy/datatypes_understanding_datatypes.html)**
 - Review the listing of _accepted formats_ under each input selection to learn which dataset formats a tool can use
 - Tools interpret a dataset's assigned datatype format during job execution, not the file's name or extension
-- Dataset in the active history, but not listed? You may need to edit the dataset format
+- When the tool form's **accepted formats** datatype is the same as a dataset's **assigned format** datatype, an input is listed and available to the tool
 
-:flashlight: Collection not listed? Reorganize your collection folder with [Collection Operations](https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/collections/tutorial.html) 
+:flashlight: Dataset in the active history, but not listed? You may need to edit the dataset format or reorganize your collection folder with [Collection Operations](https://training.galaxyproject.org/training-material/topics/galaxy-interface/tutorials/collections/tutorial.html) 
 
 <details>
   <summary><b>How to review and edit datatype format</b></summary>
