@@ -10,21 +10,15 @@
 
 ## :question: Help
 
-:::success
 <details>
-  <summary><b>Understanding job statuses</b></summary>
-  display md https://training.galaxyproject.org/training-material/faqs/galaxy/datasets_job_status.html
-</details>
-Chat with Galaxy AI introduced here?
+  <summary><b>Inputs: Files</b></summary>
 
-:::
 
-### Input Data
+  In Galaxy, inputs are named **[datasets](https://training.galaxyproject.org/training-material/search2?query=dataset)**
 
-In Galaxy, inputs are named **[datasets](https://training.galaxyproject.org/training-material/search2?query=dataset)**
-- Datasets are  _files_
-- Batch processing? Group similiar files into [dataset collections](https://training.galaxyproject.org/training-material/search2?query=collection) 
-- Input datasets must be in the _currently active_ [history](https://training.galaxyproject.org/training-material/search2?query=history)
+  - Datasets are  _files_
+  - Batch processing? Group similiar files into [dataset collections](https://training.galaxyproject.org/training-material/search2?query=collection) 
+  - Input datasets must be in the _currently active_ [history](https://training.galaxyproject.org/training-material/search2?query=history)
 
 :flashlight: Switch which history is active with `fa-exchange` or view all of your histories with `history-selector-icon`
 
@@ -41,8 +35,10 @@ In Galaxy, inputs are named **[datasets](https://training.galaxyproject.org/trai
 
 </details>
 
+</details>
 
-### Input Format
+<details>
+  <summary><b>Inputs: Format</b></summary>
 
 In Galaxy, input datasets have a file **format**, commonly named a **[datatype](https://training.galaxyproject.org/training-material/faqs/galaxy/datatypes_understanding_datatypes.html)**
 - Review the listing of _accepted formats_ under each input selection to learn which dataset formats a tool can use
@@ -71,9 +67,12 @@ In Galaxy, input datasets have a file **format**, commonly named a **[datatype](
   
 </details>
 
-### Learn
+</details>
 
-#### Galaxy Tutorials
+## :mortar_board: Learn
+
+<details>
+  <summary><b>Tutorials</b></summary>
 
 Tutorials that include **name** description Same link as tool form to gtn listing of matches
 
@@ -81,7 +80,10 @@ Tutorials that include **name** description Same link as tool form to gtn listin
 
 [Search the Galaxy Training Network](https://training.galaxyproject.org/training-material/search2)
 
-#### Galaxy FAQs
+</details>
+
+<details>
+  <summary><b>FAQs</b></summary>
 
 <details>
   <summary>Different dataset icons and their usage</summary>
@@ -94,14 +96,21 @@ Tutorials that include **name** description Same link as tool form to gtn listin
 </details>
 
 <details>
+  <summary><Understanding job statuses</summary>
+  display md https://training.galaxyproject.org/training-material/faqs/galaxy/datasets_job_status.html
+</details>
+
+<details>
   <summary>Troubleshooting errors</summary>
   display md https://training.galaxyproject.org/training-material/faqs/galaxy/analysis_troubleshooting.html
 </details>
 
 [See all Galaxy FAQs](https://training.galaxyproject.org/training-material/faqs/galaxy/)
 
+</details>
 
-#### Help
+<details>
+  <summary><b>Help</b></summary>
 
 Explore Galaxy Help topics that include **name** description Linked via tool-help tag
 
@@ -109,4 +118,4 @@ Explore Galaxy Help topics that include **name** description Linked via tool-hel
 
 [Visit the Galaxy Help forum](https://help.galaxyproject.org/)
 
-Chat with Galaxy.. Or, AI introduced here?
+</details>
