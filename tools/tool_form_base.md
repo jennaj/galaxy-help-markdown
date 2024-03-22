@@ -12,7 +12,7 @@
 
 <details>
   <summary><b>Inputs: Files</b></summary>
-
+  <br>
 
   In Galaxy, inputs are named **[datasets](https://training.galaxyproject.org/training-material/search2?query=dataset)**
 
@@ -24,7 +24,7 @@
 
 <details>
   <summary><b>How to select datasets from the history</b></summary>
-
+  
   1. Choose one of:
   
      * single dataset `fa-file`
@@ -39,8 +39,10 @@
 
 <details>
   <summary><b>Inputs: Format</b></summary>
-
+  <br>
+  
 In Galaxy, input datasets have a file **format**, commonly named a **[datatype](https://training.galaxyproject.org/training-material/faqs/galaxy/datatypes_understanding_datatypes.html)**
+
 - Review the listing of _accepted formats_ under each input selection to learn which dataset formats a tool can use
 - Tools interpret a dataset's assigned datatype format during job execution, not the file's name or extension
 - When the tool form's **accepted formats** datatype is the same as a dataset's **assigned format** datatype, an input is listed and available to the tool
@@ -73,6 +75,7 @@ In Galaxy, input datasets have a file **format**, commonly named a **[datatype](
 
 <details>
   <summary><b>Tutorials</b></summary>
+  <br>
 
 Tutorials that include **name** description Same link as tool form to gtn listing of matches
 
@@ -84,7 +87,8 @@ Tutorials that include **name** description Same link as tool form to gtn listin
 
 <details>
   <summary><b>FAQs</b></summary>
-
+  <br>
+  
 <details>
   <summary>Different dataset icons and their usage</summary>
   display md https://training.galaxyproject.org/training-material/faqs/galaxy/datasets_icons.html
@@ -96,12 +100,12 @@ Tutorials that include **name** description Same link as tool form to gtn listin
 </details>
 
 <details>
-  <summary><Understanding job statuses</summary>
+  <summary>Understanding Job Status</summary>
   display md https://training.galaxyproject.org/training-material/faqs/galaxy/datasets_job_status.html
 </details>
 
 <details>
-  <summary>Troubleshooting errors</summary>
+  <summary>Troubleshooting Errors</summary>
   display md https://training.galaxyproject.org/training-material/faqs/galaxy/analysis_troubleshooting.html
 </details>
 
@@ -111,7 +115,8 @@ Tutorials that include **name** description Same link as tool form to gtn listin
 
 <details>
   <summary><b>Help</b></summary>
-
+  <br>
+  
 Explore Galaxy Help topics that include **name** description Linked via tool-help tag
 
 [Troubleshooting resources for errors or unexpected results](https://help.galaxyproject.org/docs?topic=42)
