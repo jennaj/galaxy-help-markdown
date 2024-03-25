@@ -30,11 +30,9 @@
      * single dataset `fa-file`
      * multiple datasets `fa-files`
      * dataset collection `fa-folder`
-
   2. Then select from the list of available datasets
 
 </details>
-
 </details>
 
 <details>
@@ -109,6 +107,7 @@ Tutorials that include **name** description Same link as tool form to gtn listin
   display md https://training.galaxyproject.org/training-material/faqs/galaxy/analysis_troubleshooting.html
 </details>
 
+
 [See all Galaxy FAQs](https://training.galaxyproject.org/training-material/faqs/galaxy/)
 
 </details>
@@ -121,6 +120,9 @@ Explore Galaxy Help topics that include **name** description Linked via tool-hel
 
 [Troubleshooting resources for errors or unexpected results](https://help.galaxyproject.org/docs?topic=42)
 
+
 [Visit the Galaxy Help forum](https://help.galaxyproject.org/)
 
+
 </details>
+
